@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="ck">C~K</string>
+    <string name="sir">Ahmad Raza</string>
+    <string name="email">android@android.com</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
